@@ -28,7 +28,7 @@ electricity-billing-system/
 ## How to Run
 1. Download this repository or clone using Git:  
    ```
-   git clone https://github.com/<your-username>/electricity-billing-system.git
+   git clone https://github.com/<Neetesh-Rajput>/electricity-billing-system.git
    ```
 2. Open the project in NetBeans: `File → Open Project → select folder`.
 3. Import `ebs.sql` in MySQL to create the database and tables.
